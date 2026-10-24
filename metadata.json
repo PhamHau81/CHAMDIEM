@@ -1,0 +1,10 @@
+{
+  "name": "HỖ TRỢ CHẤM BÀI _ PHẠM HẬU",
+  "description": "HỖ TRỢ CHẤM BÀI _ PHẠM HẬU - Hệ thống chấm thi trắc nghiệm bằng hình ảnh và camera cho giáo viên: hỗ trợ trắc nghiệm A/B/C/D và Đúng/Sai, nhận diện tự động bằng thị giác AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
